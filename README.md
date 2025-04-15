@@ -24,7 +24,7 @@
 ## 📚 Formação
 
 - **Engenharia de Produção** – IBMR *(2025 - atual)*
-- **Técnico em Edificações** – E.E.E.P. Depu. José Maria Melo *(concluído)*
+- **Técnico em Edificações** – E.E.E.P. Dep. José Maria Melo *(concluído)*
 
 ## 🧾 Certificações
 
