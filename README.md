@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou a Isadora!
 
 🎓 Estudante de Engenharia de Produção na IBMR  
-🧰 Técnica em Edificações | Projeto de Processos Industriais 
+🧰 Técnica em Edificações | Projeto de Processos Industriais
 🚀 Apaixonada por tecnologia, inovação e processos
 
 ## 💼 Experiências e Projetos
