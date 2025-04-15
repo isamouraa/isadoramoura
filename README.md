@@ -9,7 +9,7 @@
 
 - 📊 Simulações de processos produtivos com Excel, Lean Six Sigma, Power BI e mais
 - 👩‍💻 Desenvolvimento back-end em projetos *(Node.js, API REST, Git)*
-- 👩‍💻 Desenvolvimento com pogramação web 
+- 👩‍💻 Desenvolvimento com pogramação web *(HTML)*
 - 🔬 Interesse por automação, controle de sistemas e otimização
 
 ## 🧠 Habilidades Técnicas
